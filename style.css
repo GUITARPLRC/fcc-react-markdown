@@ -1,0 +1,26 @@
+* {
+	margin:0;
+	padding:0;
+}
+
+body {
+	background-color:#ddd;
+	font-family:sans-serif;
+}
+h1 {
+	margin:0;
+}
+
+textarea {
+	float:left;
+	height:80vh;
+	margin:3% 0 0 3%;
+	resize:vertical;
+	width:45%;
+}
+
+#output {
+	float:right;
+	margin:3% 3% 0 3%;
+	width:45%;
+}
